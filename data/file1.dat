@@ -1,0 +1,7 @@
+{"staff":[
+    {"fName":"Suze", "lName":"Que", "role": "CTO"},
+    {"fName":"John", "lName":"Doe", "role": "CFO"},
+    {"fName":"Anna", "lName":"Lin", "role": "CEO"},
+    {"fName":"Pete", "lName":"Voy", "role": "COO"},
+    {"fName":"Zeke", "lName":"Lee", "role": "Bum"}
+]}
