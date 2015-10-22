@@ -1,0 +1,51 @@
+[
+  {
+    "id" : "978-11803",
+    "cat" : ["book","hardcover"],
+    "name" : "The Biting Cheese",
+    "author" : "John Rider",
+    "series" : "Mercy Hacks On, and, the Pyrolympians",
+    "sequence_i" : 1,
+    "genre_s" : "fantasy",
+    "inStock" : true,
+    "price" : 12.00,
+    "pages_i" : 384
+  }
+,
+  {
+    "id" : "978-90210",
+    "cat" : ["book","paperback"],
+    "name" : "The See of Monmouth",
+    "author" : "John Rider",
+    "series" : "Mercy Hacks On, and, the Pyrolympians",
+    "sequence_i" : 2,
+    "genre_s" : "fantasy",
+    "inStock" : true,
+    "price" : 16.49,
+    "pages_i" : 304
+  }
+,
+  {
+    "id" : "978-92758",
+    "cat" : ["book","hardback"],
+    "name" : "Sophia's Mug: The Addiction",
+    "author" : "Jolsteen Money Blessings",
+    "sequence_i" : 1,
+    "genre_s" : "drama",
+    "inStock" : true,
+    "price" : 31.07,
+    "pages_i" : 64
+  }
+,
+  {
+    "id" : "978-23492",
+    "cat" : ["book","paperback"],
+    "name" : "Actionscript in a Book!, Second Edition",
+    "author" : "Martin Candles",
+    "sequence_i" : 1,
+    "genre_s" : "IT",
+    "inStock" : true,
+    "price" : 3.50,
+    "pages_i" : 75
+  }
+]
